@@ -20,3 +20,30 @@ p{
 #shiu{
     color: white;
 }
+
+h3{
+    
+    color: rgba(0, 0, 0, 0.623);
+}
+img{
+    border: 5px black solid ;
+}
+
+#imagens{
+    display: flex;
+    flex-direction: row;
+}
+
+.linhas{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+}
+
+.linhas{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+}
